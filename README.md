@@ -19,7 +19,7 @@ Three methods from Sparks were used to compare the time taken to execute a parti
 ## Results
 Cache does output half of the time taken from original query. 
 
-Partion on data that does not have relationships in the query delay the output. 
+Partioning data that does not have relationships in the query delay the output. 
 
 ## Reference
 GROUP BY and FILTER.(N.D.).Data World. Retrieved on 03/8/2023, from <https://docs.data.world/documentation/sql/concepts/intermediate/GROUP_BY.html>
