@@ -21,7 +21,7 @@ Cache does output half of the time taken from original query.
 
 Partioning data that does not have relationships in the query delay the output. 
 
-## Reference
+## References
 GROUP BY and FILTER.(N.D.).Data World. Retrieved on 03/8/2023, from <https://docs.data.world/documentation/sql/concepts/intermediate/GROUP_BY.html>
 
 MySQL ROUND() Function.(1999-2023). W3 Schools. Retrieved on 03/08/2023, from<https://www.w3schools.com/sql/func_mysql_round.asp>
