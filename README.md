@@ -19,7 +19,7 @@ Cache does output half of the time taken from original query.
 Partion on data that does not have relationships in the query delay the output. 
 
 ## Reference
-GROUP BY and FILTER.().Data World. Retrieved on 03/8/2023, from <https://docs.data.world/documentation/sql/concepts/intermediate/GROUP_BY.html>
+GROUP BY and FILTER.(N.D.).Data World. Retrieved on 03/8/2023, from <https://docs.data.world/documentation/sql/concepts/intermediate/GROUP_BY.html>
 
 
 
