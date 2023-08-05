@@ -11,12 +11,14 @@ Particularly our challenge practises the use of Sparks library to read big data 
 
 ## Project Method
 Three methods from Sparks were used to compare the time taken to execute a particular query.
+
 1. Original time query
 2. Cache and Uncache temporary table
 3. Partition data on "date_built"
 
 ## Results
 Cache does output half of the time taken from original query. 
+
 Partion on data that does not have relationships in the query delay the output. 
 
 ## Reference
